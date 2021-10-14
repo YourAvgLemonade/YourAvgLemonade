@@ -12,7 +12,7 @@
     <a href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29" target="_blank"> <img src="https://img.icons8.com/plasticine/65/000000/bash.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png"/> </a>  
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/55/000000/github.png"/> </a>  
-    <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" width="5.5%" height="3%"/> </a>  
+    <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" width="5%" height="2.5%"/> </a>  
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
        
 
