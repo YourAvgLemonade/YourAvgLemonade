@@ -1,5 +1,3 @@
-<a href="#"> <center> <img width="40%" height="40%" src="https://cdn2.iconfinder.com/data/icons/occupations-2/500/occupation-33-512.png"/> </center> </a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lemonade</h1>
 <h2 align="center">I'm a CS enthusiast from Nepal</h2>
 
