@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lemonade</h1>
-<h2 align="center">I'm a CS enthusiast from Nepal</h2>
 
 ## **Languages and Tools I use:**
 
